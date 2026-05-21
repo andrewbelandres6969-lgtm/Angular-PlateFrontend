@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://angular-plate-frontend.vercel.app'
+    apiUrl: 'https://angular-plate-frontend-git-main-andreweeyyy-s-projects.vercel.app'
 };
