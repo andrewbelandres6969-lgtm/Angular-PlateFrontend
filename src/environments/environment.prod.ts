@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://angular-boiler-plate-21-backend.onrender.com'
+    apiUrl: 'https://angular-plate-frontend.vercel.app'
 };
