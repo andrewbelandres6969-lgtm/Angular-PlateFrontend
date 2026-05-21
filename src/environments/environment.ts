@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiUrl: 'https://angular-plate-frontend-git-main-andreweeyyy-s-projects.vercel.app'
+    apiUrl: 'https://angular-plate-frontend.vercel.app'
 };
 
 /*
