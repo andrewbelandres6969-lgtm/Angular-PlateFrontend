@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiUrl: 'https://angular-plate-frontend.vercel.app'
+    apiUrl: 'https://angular-boiler-backend.onrender.com'
 };
 
 /*
